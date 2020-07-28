@@ -1,6 +1,8 @@
 # Advanced PowerShell Concepts 
 
-Welcome to the Advanced PowerShell Concepts module! This module consists of 4 lessons to help you learn the fundamentals required to learn how to work with some of the advanced functionality of PowerShell
+Welcome to the Advanced PowerShell Concepts module! This module consists of 4 lessons to help you learn the fundamentals required to learn how to work with some of the advanced functionality of PowerShell. 
+
+Workshop slides can be found [here](https://github.com/RoxieAtRubrik/workshop-automation-for-partners/blob/master/06%20-%20Advanced%20PowerShell%20Concepts.pdf). 
 
 ## :pencil: Lessons
 
